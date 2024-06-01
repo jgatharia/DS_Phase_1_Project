@@ -7,3 +7,5 @@ data\im.db
 *.csv
 /rt.movie_info.tsv
 /bom.movie_gross.csv
+/.db
+*db
