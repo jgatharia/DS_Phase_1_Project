@@ -1,4 +1,9 @@
+im.db
+\.db
 data\im.db
-*.db
-.db
-*.db
+*im.db
+*. db
+\*\.db
+*.csv
+data\rt.movie_info.tsv
+data\bom.movie_gross.csv
