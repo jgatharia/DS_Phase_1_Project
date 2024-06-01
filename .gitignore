@@ -5,5 +5,5 @@ data\im.db
 *. db
 \*\.db
 *.csv
-data\rt.movie_info.tsv
-data\bom.movie_gross.csv
+/rt.movie_info.tsv
+/bom.movie_gross.csv
