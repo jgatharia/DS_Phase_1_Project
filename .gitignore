@@ -1,11 +1,4 @@
-im.db
-\.db
-data\im.db
-*im.db
-*. db
-\*\.db
-*.csv
+*.db
+ *.csv
+  *.tsv
 
-/.db
-*db
-C:\Users\User\OneDrive\Desktop\DS_Phase_1_Project\data\im.db
